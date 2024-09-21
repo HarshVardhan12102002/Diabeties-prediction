@@ -6,7 +6,7 @@ This project aims to predict whether a patient has diabetes based on certain dia
 ## Project Structure
 
 ```bash
-diabetes_prediction/
+diabetes_prediction_main/
 ├── diabetes.csv                     # Dataset used for model training and testing
 ├── Diabetes_Prediction_mlModel.ipynb # Jupyter notebook for building and training the ML model
 ├── predictive_system.py              # Python script for prediction using the trained model
@@ -107,4 +107,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ---
 
 ### Contact
-For any queries or issues, feel free to reach out at [your-email@example.com].
+For any queries or issues, feel free to reach out at [harshvardhanshukla1002@gmail.com].
