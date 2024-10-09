@@ -101,10 +101,5 @@ Feel free to contribute to this project by submitting issues or pull requests.
 
 ---
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
 ### Contact
 For any queries or issues, feel free to reach out at [harshvardhanshukla1002@gmail.com].
