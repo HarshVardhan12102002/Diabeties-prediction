@@ -1,1 +1,5 @@
-this machine learning model is a support vector machine model to predict a person is diabetic or not .
+Team
+21BCE2236 HARSH VARDHAN SHUKLA
+21BCE0932 MUKILVANNAN M
+21BCE2003 RUBEN SHAILESH MUKKIRWAR
+21BCE2687 SAHIL JAIN 
