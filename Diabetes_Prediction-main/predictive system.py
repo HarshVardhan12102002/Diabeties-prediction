@@ -3,7 +3,7 @@ import numpy as np
 import pickle
 
 # loading the saved model
-loaded_model = pickle.load(open('C:/Users/swesh/OneDrive/Desktop/New folder/trained_model.sav', 'rb'))
+loaded_model = pickle.load(open('C:/Users/HarshVardhan121002/OneDrive/Desktop/New folder/trained_model.sav', 'rb'))
 
 
 input_data = (5,166,72,19,175,25.8,0.587,51)
